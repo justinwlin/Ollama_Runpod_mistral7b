@@ -1,0 +1,2 @@
+runpod==1.4.2
+langchain==0.0.259
